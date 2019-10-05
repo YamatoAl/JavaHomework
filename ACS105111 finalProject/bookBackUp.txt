@@ -1,0 +1,7 @@
+test a p A00000 ENG 2000 0
+test2 ai pb A10000 CH 2000 5
+test3 ai pb A10000 CH 2000 0
+test4 ai pb A10000 CH 2000 2
+test5 aii pb A10000 CH 13 0
+test6 aii pb A10000 CH 87 0
+test7 ai pb A11222 CH 2000 3
